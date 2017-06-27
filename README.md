@@ -16,3 +16,12 @@
 
 # Generator Network
 
+![screenshot capture - 2017-06-27 - 13-19-52](https://user-images.githubusercontent.com/17912055/27578524-ff11fc8a-5b41-11e7-97b4-2fab82acf5e4.png)
+
+
+# Libraries
+
+* Pickle 
+* Numpy 
+* Matplotlib
+* Tensorflow
