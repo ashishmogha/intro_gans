@@ -24,4 +24,3 @@
 * Pickle 
 * Numpy 
 * Matplotlib
-* Tensorflow
